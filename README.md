@@ -54,8 +54,8 @@ python manage.py runserver 0.0.0.0:8000
 
 ## 🛠️ Tech Stack
 
-Backend: Django, Django REST Framework
-Frontend: React.js, Leaflet Maps
-Database: PostgreSQL
-ML: scikit-learn, pandas
-APIs: OpenStreetMap, Census API, Foursquare
+- Backend: Django, Django REST Framework
+- Frontend: React.js, Leaflet Maps
+- Database: PostgreSQL
+- ML: scikit-learn, pandas
+- APIs: OpenStreetMap, Census API, Foursquare
